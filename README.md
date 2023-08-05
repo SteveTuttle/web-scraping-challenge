@@ -32,6 +32,8 @@ Open the Jupyter Notebook in the starter code folder named __part_1_mars_news.ip
  'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}
 ```
 
+
+
     * Store all the dictionaries in a Python list.
 
     * Print the list in your notebook.
