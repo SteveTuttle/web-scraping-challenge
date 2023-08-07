@@ -29,6 +29,7 @@ For this Deliverable, I first opened the Jupyter Notebook I extracted from the s
 
 ``
 {'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm", 
+ 
  'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}
 ``
 
@@ -79,7 +80,7 @@ For the next Deliverable, I opened  the Jupyter Notebook from the starter code f
 
 
 ## Resources
-### Bootcamp References -- Update this section later for this challenge
+### Bootcamp References
 Module 11 Instructions
 
 starter_code
@@ -102,6 +103,6 @@ _(where possible will provide link to website)_
 * [Mozilla: HTML documantion](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Mozilla: Element documantion](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Mozilla: CSS documantion](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-* [Google](https://google.com)
-* [YouTube](https://youtube.come)
+* [Google](https://www.google.com)
+* [YouTube](https://www.youtube.com)
 
