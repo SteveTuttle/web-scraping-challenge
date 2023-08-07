@@ -27,11 +27,11 @@ For this Deliverable, I first opened the Jupyter Notebook I extracted from the s
 
 ***An example is this would be:***
 
-``
+```
 {'title': "NASA's MAVEN Observes Martian Light Show Caused by Major Solar Storm", 
  
  'preview': "For the first time in its eight years orbiting Mars, NASA’s MAVEN mission witnessed two different types of ultraviolet aurorae simultaneously, the result of solar storms that began on Aug. 27."}
-``
+```
 
 * Store all the dictionaries in a Python list.
 
