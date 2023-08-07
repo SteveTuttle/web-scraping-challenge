@@ -60,7 +60,7 @@ For the next Deliverable, I opened  the Jupyter Notebook from the starter code f
 
 4) Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate _datetime_, _int_, or _float_ data types.
 
-    * __Hint:__ You can use the Pandas astype and to_datetime methods to accomplish this task.
+    * __Hint:__ You can use the Pandas _astype_ and _to_datetime_ methods to accomplish this task.
 
 5) Analyze your dataset by using Pandas functions to answer the following questions:
   * How many months exist on Mars?
