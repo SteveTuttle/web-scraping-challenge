@@ -96,8 +96,8 @@ starter_code
 ### External References
 _(where possible will provide link to website)_
 * [pandas documentation](https://pandas.pydata.org/docs/reference/general_functions.html)
-* [Beatiful Soup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-* [Splinter documentation](https://splinter.readthedocs.io/en/latest/)
+* [BeatifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [splinter documentation](https://splinter.readthedocs.io/en/latest/)
 * [Mozilla: HTML documantion](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Mozilla: Element documantion](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Mozilla: CSS documantion](https://developer.mozilla.org/en-US/docs/Learn/CSS)
