@@ -43,7 +43,7 @@ For this Deliverable, I first opened the Jupyter Notebook I extracted from the s
 ### Deliverable-2: Scrape and Analyze Mars Weather Data
 For the next Deliverable, I opened  the Jupyter Notebook from the starter code folder named __part_2_mars_weather.ipynb__ and renamed it __part_2_mars_weather_SDT.ipynb__. Again following the steps from both this code and challenge instructions listed below to scrape and analyze Mars weather data.
 
-1) Again, use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html) to inspect the page and identify which elements to scrape. Note that the URL is _https://static.bc-edx.com/data/web/mars_facts/temperature.html_.
+1) Again, use automated browsing to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html) to inspect the page and identify which elements to scrape.
 
     * __Hint:__ To identify which elements to scrape, you might want to inspect the page by using Chrome DevTools to discover whether the table contains usable classes.
 
@@ -87,8 +87,6 @@ starter_code
 * part_1_mars_news.ipynb
 * part_1_mars_weather.ipynb
 
-Example Data:
-
 
 ***Special Thanks:***
 * Jamie Miller
@@ -103,6 +101,7 @@ _(where possible will provide link to website)_
 * [Mozilla: HTML documantion](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Mozilla: Element documantion](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 * [Mozilla: CSS documantion](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [matplotlib documentation](https://matplotlib.org/stable/index.html)
 * [Google](https://www.google.com)
 * [YouTube](https://www.youtube.com)
 
