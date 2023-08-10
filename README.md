@@ -95,7 +95,7 @@ Module 11 Instructions
 
 starter_code
 * part_1_mars_news.ipynb
-* part_1_mars_weather.ipynb
+* part_2_mars_weather.ipynb
 
 
 ***Special Thanks:***
