@@ -68,12 +68,22 @@ For the next Deliverable, I opened  the Jupyter Notebook from the starter code f
   * What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
     * Find the average minimum daily temperature for all of the months.
     * Plot the results as a bar chart.
+
+![Mars Average Monthly Temperatures](https://github.com/SteveTuttle/web-scraping-challenge/blob/main/Images/Mars_avg_temp_month.png)
+
+![Mars Temperatures: Coolest to Warmest](https://github.com/SteveTuttle/web-scraping-challenge/blob/main/Images/Mars_temp_diff_month.png)
+  
   * Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
     * Find the average daily atmospheric pressure of all the months.
     * Plot the results as a bar chart.
+
+![Mars Pressures: Lowest to Highest](https://github.com/SteveTuttle/web-scraping-challenge/blob/main/Images/Mars_press_lowhi_month.png)
+
   * About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
     * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
     * Visually estimate the result by plotting the daily minimum temperature.
+
+![Mars seasonal temperature cycle over one year](https://github.com/SteveTuttle/web-scraping-challenge/blob/main/Images/Mars_seasonal_cycle_temp_year.png)
 
 6) Export the DataFrame to a CSV file.
 
